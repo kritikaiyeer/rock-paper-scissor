@@ -1,3 +1,3 @@
 # rock-paper-scissor
-Rock Paper Scissor Game using slang
+Rock Paper Scissor Game using dlang
 
