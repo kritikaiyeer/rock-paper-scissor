@@ -1,7 +1,7 @@
 import std;
 
 class RockPaperScissor {
-    /* Take's player move and print's the winner.
+    /* Takes player move and print's the winner.
     *  args: string (player's move (rock/paper/scissor))*/
     void play(string player){
         // print player input
